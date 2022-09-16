@@ -1,2 +1,2 @@
 # data-science-with-R
-R code
+R code for common statistical analysis
